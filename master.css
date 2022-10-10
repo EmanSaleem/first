@@ -1,0 +1,629 @@
+header h2 {
+    color: #053EFF;
+    font-size: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+header h1 {
+    color: #000;
+    font-size: 70px;
+    font-weight: bolder;
+    margin-bottom: 0%;
+}
+
+header h3 {
+    color: #053EFF;
+    font-size: 15px;
+    font-weight: 300;
+    margin-top: 0px;
+
+}
+
+.pic1 img {
+    width: 250px;
+    height: 180px;
+}
+
+.pic1 p {
+    color: #000;
+    font-size: 20px;
+}
+
+.pic1 h2 {
+    color: #053EFF;
+    font-size: 12px;
+
+}
+
+.bi bi-star {
+    background-color: yellow;
+    display: flex;
+    justify-content: left;
+}
+
+.pic1 {
+    border-radius: 20px;
+    box-shadow: 10px;
+}
+
+.pic1 bi bi-heart {
+    color: #000;
+
+}
+
+.strike {
+    font-size: 15px;
+    color: gainsboro;
+}
+
+.strike bi bi-arrow-right-square-fill {
+    color: #000;
+    background-color: #053EFF;
+    display: flex;
+}
+
+/*picture2*/
+header h2 {
+    color: #053EFF;
+    font-size: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+header h1 {
+    color: #000;
+    font-size: 70px;
+    font-weight: bolder;
+    margin-bottom: 0%;
+}
+
+header h3 {
+    color: #053EFF;
+    font-size: 15px;
+    font-weight: 300;
+    margin-top: 0px;
+
+}
+
+.pic2 img {
+    width: 250px;
+    height: 180px;
+}
+
+.pic2 p {
+    color: #000;
+    font-size: 20px;
+}
+
+.pic2 h2 {
+    color: #053EFF;
+    font-size: 12px;
+
+}
+
+.bi bi-star {
+    background-color: yellow;
+    display: flex;
+    justify-content: left;
+}
+
+.pic2 {
+    border-radius: 20px;
+    box-shadow: 10px;
+}
+
+.pic2 bi bi-heart {
+    color: #000;
+    z-index: 90px;
+
+}
+
+.strike {
+    font-size: 15px;
+    color: gainsboro;
+}
+
+.strike bi bi-arrow-right-square-fill {
+    color: #000;
+    z-index: 90;
+}
+
+/*picture3*/
+header h2 {
+    color: #053EFF;
+    font-size: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+header h1 {
+    color: #000;
+    font-size: 70px;
+    font-weight: bolder;
+    margin-bottom: 0%;
+}
+
+header h3 {
+    color: #053EFF;
+    font-size: 15px;
+    font-weight: 300;
+    margin-top: 0px;
+
+}
+
+.pic3 img {
+    width: 250px;
+    height: 180px;
+}
+
+.pic3 p {
+    color: #000;
+    font-size: 20px;
+}
+
+.pic3 h2 {
+    color: #053EFF;
+    font-size: 12px;
+
+}
+
+.bi bi-star {
+    color: yellow;
+    display: flex;
+    justify-content: left;
+}
+
+.pic3 {
+    border-radius: 20px;
+    box-shadow: 10px;
+}
+
+.pic3 bi bi-heart {
+    color: #000;
+    z-index: 90px;
+
+}
+
+.strike {
+    font-size: 15px;
+    color: gainsboro;
+}
+
+.strike bi bi-arrow-right-square-fill {
+    color: #000;
+    z-index: 90;
+}
+
+/*picture4*/
+header h2 {
+    color: #053EFF;
+    font-size: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+header h1 {
+    color: #000;
+    font-size: 70px;
+    font-weight: bolder;
+    margin-bottom: 0%;
+}
+
+header h3 {
+    color: #053EFF;
+    font-size: 15px;
+    font-weight: 300;
+    margin-top: 0px;
+
+}
+
+.pic4 img {
+    width: 250px;
+    height: 180px;
+}
+
+.pic4 p {
+    color: #000;
+    font-size: 20px;
+}
+
+.pic4 h2 {
+    color: #053EFF;
+    font-size: 12px;
+
+}
+
+.bi bi-star {
+    background-color: yellow;
+    display: flex;
+    justify-content: left;
+}
+
+.pic4 {
+    border-radius: 20px;
+    box-shadow: 10px;
+}
+
+.pic4 bi bi-heart {
+    color: #000;
+    z-index: 90px;
+
+}
+
+.strike {
+    font-size: 15px;
+    color: gainsboro;
+}
+
+.strike bi bi-arrow-right-square-fill {
+    color: #000;
+    z-index: 90;
+}
+
+.pictures {
+    display: flex;
+}
+
+
+/*picture5*/
+header h2 {
+    color: #053EFF;
+    font-size: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+header h1 {
+    color: #000;
+    font-size: 70px;
+    font-weight: bolder;
+    margin-bottom: 0%;
+}
+
+header h3 {
+    color: #053EFF;
+    font-size: 15px;
+    font-weight: 300;
+    margin-top: 0px;
+
+}
+
+.pic5 img {
+    width: 350px;
+    height: 200px;
+    display: inline-block;
+}
+
+.pic5 p {
+    color: #000;
+    font-size: 20px;
+}
+
+.pic5 h2 {
+    color: #053EFF;
+    font-size: 12px;
+
+}
+
+.bi bi-star {
+    background-color: yellow;
+    display: flex;
+    justify-content: left;
+}
+
+.pic5 {
+    border-radius: 20px;
+    box-shadow: 10px;
+}
+
+.pic5 bi bi-heart {
+    color: #000;
+    z-index: 90px;
+
+}
+
+.strike {
+    font-size: 15px;
+    color: gainsboro;
+}
+
+.strike bi bi-arrow-right-square-fill {
+    color: #000;
+    z-index: 90;
+}
+
+.pictures {
+    display: flex;
+}
+
+/* section2*/
+header h2 {
+    color: #053EFF;
+    font-size: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+header h1 {
+    color: #000;
+    font-size: 70px;
+    font-weight: bolder;
+    margin-bottom: 0%;
+}
+
+header h3 {
+    color: #053EFF;
+    font-size: 15px;
+    font-weight: 300;
+    margin-top: 0px;
+
+}
+
+.pic6 img {
+    width: 350px;
+    height: 200px;
+    display: inline-block;
+}
+
+.pic6 p {
+    color: #000;
+    font-size: 20px;
+}
+
+.pic6 h2 {
+    color: #053EFF;
+    font-size: 12px;
+
+}
+
+.bi bi-star {
+    background-color: yellow;
+    display: flex;
+    justify-content: left;
+}
+
+.pic6 {
+    border-radius: 20px;
+    box-shadow: 10px;
+}
+
+.pic6 bi bi-heart {
+    color: #000;
+    z-index: 90px;
+
+}
+
+.strike {
+    font-size: 15px;
+    color: gainsboro;
+}
+
+.strike bi bi-arrow-right-square-fill {
+    color: #000;
+    z-index: 90;
+}
+
+.pictres1 {
+    display: flex;
+}
+
+/*pictures7*/
+header h2 {
+    color: #053EFF;
+    font-size: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+header h1 {
+    color: #000;
+    font-size: 70px;
+    font-weight: bolder;
+    margin-bottom: 0%;
+}
+
+header h3 {
+    color: #053EFF;
+    font-size: 15px;
+    font-weight: 300;
+    margin-top: 0px;
+
+}
+
+.pic7 img {
+    width: 350px;
+    height: 200px;
+    display: inline-block;
+}
+
+.pic7 p {
+    color: #000;
+    font-size: 20px;
+}
+
+.pic7 h2 {
+    color: #053EFF;
+    font-size: 12px;
+
+}
+
+.bi bi-star {
+    background-color: yellow;
+    display: flex;
+    justify-content: left;
+}
+
+.pic7 {
+    border-radius: 20px;
+    box-shadow: 10px;
+}
+
+.pic7 bi bi-heart {
+    color: #000;
+    z-index: 90px;
+
+}
+
+.strike {
+    font-size: 15px;
+    color: gainsboro;
+}
+
+.strike bi bi-arrow-right-square-fill {
+    color: #000;
+    z-index: 90;
+}
+
+/*verticals*/
+.vertical1 img {
+    width: 150px;
+    height: 150px;
+    justify-content: left;
+}
+
+.vertical1 p {
+    color: #000;
+    font-size: 20px;
+    justify-content: center;
+
+}
+
+header h2 {
+    color: #053EFF;
+    font-size: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+header h1 {
+    color: #000;
+    font-size: 70px;
+    font-weight: bolder;
+    margin-bottom: 0%;
+
+}
+
+header h3 {
+    color: #053EFF;
+    font-size: 15px;
+    font-weight: 300;
+    margin-top: 0px;
+
+}
+
+.bag {
+    color: #000;
+    font-size: 12px;
+}
+
+.vertical1 h2 {
+    color: #053EFF;
+    font-size: 12px;
+
+}
+
+.bi bi-star {
+    background-color: yellow;
+    display: flex;
+    justify-content: left;
+}
+
+.vertical1 {
+    border-radius: 20px;
+    box-shadow: 50px;
+    display: flex;
+
+
+}
+
+.vertical1 bi bi-heart {
+    color: #000;
+    z-index: 900px;
+
+}
+
+.strike {
+    font-size: 15px;
+    color: gainsboro;
+}
+
+.strike bi bi-arrow-right-square-fill {
+    color: #000;
+    z-index: 90;
+    background-color: #053EFF;
+}
+
+/*vertical2*/
+.vertical2 img {
+    width: 150px;
+    height: 150px;
+    justify-content: left;
+}
+
+.vertical2 p {
+    color: #000;
+    font-size: 20px;
+    justify-content: center;
+
+}
+
+header h2 {
+    color: #053EFF;
+    font-size: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+header h1 {
+    color: #000;
+    font-size: 70px;
+    font-weight: bolder;
+    margin-bottom: 0%;
+
+}
+
+header h3 {
+    color: #053EFF;
+    font-size: 15px;
+    font-weight: 300;
+    margin-top: 0px;
+
+}
+
+.bag {
+    color: #000;
+    font-size: 12px;
+}
+
+.vertical2 h2 {
+    color: #053EFF;
+    font-size: 12px;
+
+}
+
+.bi bi-star {
+    background-color: yellow;
+    display: flex;
+    justify-content: left;
+}
+
+.vertical2 {
+    border-radius: 20px;
+    box-shadow: 50px;
+
+
+}
+
+.vertical2 bi bi-heart {
+    color: #000;
+
+
+}
+
+.strike {
+    font-size: 15px;
+    color: gainsboro;
+}
+
+.strike bi bi-arrow-right-square-fill {
+    color: #000;
+
+}
+
+/*page2*/
+
+.row {
+    display: flex;
+}
